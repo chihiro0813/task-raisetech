@@ -2,15 +2,26 @@
 1. APサーバーの名前とバージョン
   - 名前 PUMA
   - バージョン (6.4.2)
+  - [Puma version.png]
+
 2. APサーバーを終了させた場合、引き続きアクセスできるか
   - できない
+  - [APserver stop.png] 
 
 # DBサーバーについて
 1. DBサーバーの名前と今EC2で動作しているバージョン
   - 名前 MySQL
   - バージョン (8.4.2)
+  - [MySQL version.png]
+
 2. DBサーバーを終了させた後、引き続きアクセスできるか
-  - できる
+  - できない
+  - [DBserver stop.png]
+  - [DBserver.png]
+
+# デプロイ画像
+  - [deploy.png]
+
 
 # Railsの構成管理ツールの名前は
   - bundler
