@@ -3,7 +3,7 @@
   - 名前 PUMA
   - バージョン (6.4.2)
   - エビデンス画像
-   ![Puma version](https://github.com/user-attachments/assets/c57a2619-1b0b-4f87-bb7c-c7e14bbad753)
+    ![Puma version](https://github.com/user-attachments/assets/c57a2619-1b0b-4f87-bb7c-c7e14bbad753)
 
 2. デプロイエビデンス画像
    ![deploy](https://github.com/user-attachments/assets/f5d475fb-9c67-4ebd-bc21-4842f1885cbb)
@@ -25,7 +25,7 @@
 2. DBサーバーを終了させた後、引き続きアクセスできるか
   - できない
   - エビデンス画像
-   ![DBserver](https://github.com/user-attachments/assets/cd17a1c3-fa0a-4278-bb2c-f992f8a528c1)
+    ![DBserver](https://github.com/user-attachments/assets/cd17a1c3-fa0a-4278-bb2c-f992f8a528c1)
 
 
 ### Railsの構成管理ツールの名前は
