@@ -2,7 +2,7 @@
 1. APサーバーの名前とバージョン
   - 名前 PUMA
   - バージョン (6.4.2)
-　‐ エビデンス画像
+  - エビデンス画像
    ![Puma version](https://github.com/user-attachments/assets/c57a2619-1b0b-4f87-bb7c-c7e14bbad753)
 
 2. デプロイエビデンス画像
